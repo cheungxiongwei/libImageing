@@ -66,4 +66,5 @@ Only support Windows Platform
 
 # reference
 https://uploadcare.com/blog/the-fastest-image-resize/
+
 https://github.com/uploadcare/pillow-simd
